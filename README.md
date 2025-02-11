@@ -21,13 +21,16 @@
 >
 > > **`composer install`**
 >
+> > **`./vendor/bin/sail build --no-cache`**
+> 
+> > **`./vendor/bin/sail up -d`**
+> 
 > > **`./vendor/bin/sail php artisan key:generate`**
 >
 > > **`./vendor/bin/sail php artisan migrate`**
 >
 > > **`./vendor/bin/sail php artisan db:seed`**
->
-> > **`./vendor/bin/sail up -d`**
+
 
 ### Incialização do projeto
 > **`Execute o container criado pelo Laravel Sail`**
@@ -39,6 +42,8 @@
 > **`Baixe o repositório no seu ambiente xampp`**
 >
 > **`Inicialize o apache e mysql do seu xampp`**
+>
+> **`Altere o .env adicionando as configurações do seu banco de dados`**
 
 ### Instalação do projeto
 > **`Execute os comandos abaixo no seu terminal na raiz do projeto`**
