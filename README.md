@@ -67,5 +67,6 @@
 # Login do painel admin
 > **`Para realizar o login no painel de admin, basta preencher as credenciais com o usuário criado pela seeder`**
 >
-> > > **`Email: admin@admin.com`**
-> > > **`Senha: 123`** 
+> >  **`Email: admin@admin.com`**
+> >
+> >  **`Senha: 123`** 
