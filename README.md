@@ -6,7 +6,7 @@
 > **`LARAVEL => 11`**
 
 # PRIMEIRO PASSO
-> *`Crie um arquivo .env`**
+> *`Crie um arquivo .env`*
 >
 > **`Copie todo o conteudo do arquivo .env.example para o arquivio .env recém-criado`**
 
