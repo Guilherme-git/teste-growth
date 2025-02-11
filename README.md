@@ -22,9 +22,9 @@
 > > **`composer install`**
 >
 > > **`./vendor/bin/sail build --no-cache`**
-> 
+>
 > > **`./vendor/bin/sail up -d`**
-> 
+>
 > > **`./vendor/bin/sail php artisan key:generate`**
 >
 > > **`./vendor/bin/sail php artisan migrate`**
@@ -62,3 +62,10 @@
 > > **`php artisan serve`**
 >
 > > **`Acesse o painel do filament: http://127.0.0.1:8000/admin`**
+---
+
+# Login do painel admin
+> **`Para realizar o login no painel de admin, basta preencher as credenciais com o usuario criado pela seeder`**
+>
+> > > **`Email: admin@admin.com`**
+> > > **`Senha: 123`** 
