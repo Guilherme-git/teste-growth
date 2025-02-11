@@ -9,12 +9,12 @@
 > *`Crie um arquivo .env`*
 >
 > **`Copie todo o conteudo do arquivo .env.example para o arquivio .env recém-criado`**
+---
 
 # Executando o projeto com LARAVEL SAIL
 > **`Caso estiver utilizando o windows, baixe o respositório no seu ambiente WSL`**
 >
 > **`Esteja com o Docker instalado e inicializado`**
-
 
 ### Instalação do projeto
 > **`Execute os comandos abaixo no seu terminal na raiz do projeto`**
@@ -34,7 +34,7 @@
 >
 > > **`Acesse o painel do filament: localhost/admin`**
 
-
+---
 # Executando o projeto com XAMPP
 > **`Baixe o repositório no seu ambiente xampp`**
 >
